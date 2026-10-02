@@ -13,8 +13,6 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Build step
-        run: echo "Build OK - HTML validated"
-      with:
         run: exit
 
   deploy:
