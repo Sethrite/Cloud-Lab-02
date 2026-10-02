@@ -36,4 +36,4 @@ upload-artifact:
       uses: actions/upload-artifact@v4
       with:
         name: webpage
-        path: /error/index.html
+        path: /error1/index.html
